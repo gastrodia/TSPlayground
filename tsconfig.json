@@ -1,0 +1,12 @@
+{
+    "compileOnSave": false,
+    "buildOnSave": false,
+    "filesGlob": [
+        "./src/**/*.ts"
+    ],
+    "atom": {
+        "rewriteTsconfig": true
+    },
+    "files": [],
+    "compilerOptions": {}
+}
