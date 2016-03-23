@@ -1,0 +1,4 @@
+{ "compilerOptions": {
+  "allowJs": true,
+  "outFile": "./build/all.js"
+   } }
