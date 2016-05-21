@@ -15,9 +15,10 @@ export class A{
         //            var b:B = new dep.B();
         //           b.doSomething()
         // })
-        debugger;
-        var dep = require('B');
-         var b:B = new dep.B();
+        // var dep = require('./B');
+        //  var b:B = new dep.B();
+        // b.doSomething();
+        var b = new B();
         b.doSomething();
     }
 }
